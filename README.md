@@ -1,6 +1,6 @@
-# Codenation-AceleraDev-DS
+
 <p align="center">
-    <img alt="Logo Codenation" src="logo.svg">
+    <img alt="Logo Codenation" src="https://github.com/CarolRibeiroDS/Codenation-AceleraDev-DS/blob/master/logo.svg">
 </p>
 
 ---
